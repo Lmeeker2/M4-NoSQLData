@@ -1,0 +1,65 @@
+[
+{
+    "ID" : 1,
+    "customerName" : "John Doe",
+    "phoneNumber" : "4801234567",
+    "address" : "123 Main St",
+    "loanAmount" : "$25,000",
+    "interest" : "5%",
+    "loanTermYears" : "8",
+    "loanType" : "finance",
+    "description" : "honda civic",
+    "calculatedLoanAmount" : "$125000"
+},
+{
+    "ID" : 2,
+    "customerName" : "John Star",
+    "phoneNumber" : "1234567890",
+    "address" : "124 Main St",
+    "loanAmount" : "$15,000",
+    "interest" : "5%",
+    "loanTermYears" : "4 ",
+    "loanType" : "finance",
+    "description" : "toyota corolla",
+    "calculatedLoanAmount" : "$75000"
+},
+
+{
+    "ID" : 3,
+    "customerName" : "Ava Max",
+    "phoneNumber" : "4809087654",
+    "address" : "1 Main St",
+    "loanAmount" : "$30,000",
+    "interest" : "6%",
+    "loanTermYears" : "8",
+    "loanType" : "finance",
+    "description" : "toyota camry",
+    "calculatedLoanAmount" : "180000"
+},
+
+{
+    "ID" : 4,
+    "customerName" : "Trae Hendrick",
+    "phoneNumber" : "4904567890",
+    "address" : "13 Main St",
+    "loanAmount" : "$20,000",
+    "interest" : "9%",
+    "loanTermYears" : "5",
+    "loanType" : "finance",
+    "description" : "toyota tocoma",
+    "calculatedLoanAmount" : "180000"
+},
+
+{
+    "ID" : "5",
+    "customerName" : "Jane Doe",
+    "phoneNumber" : "1234805678",
+    "address" : "12 Main St",
+    "loanAmount" : "$29,000",
+    "interest" : "8%",
+    "loanTermYears" : "7",
+    "loanType" : "finance",
+    "description" : "honda accord",
+    "calculatedLoanAmount" : "232000"
+}
+]
